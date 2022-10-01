@@ -1,0 +1,15 @@
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\bin\Debug\net6.0\les1.1.exe
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\bin\Debug\net6.0\les1.1.deps.json
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\bin\Debug\net6.0\les1.1.runtimeconfig.json
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\bin\Debug\net6.0\les1.1.dll
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\bin\Debug\net6.0\les1.1.pdb
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\obj\Debug\net6.0\les1.1.csproj.AssemblyReference.cache
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\obj\Debug\net6.0\les1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\obj\Debug\net6.0\les1.1.AssemblyInfoInputs.cache
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\obj\Debug\net6.0\les1.1.AssemblyInfo.cs
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\obj\Debug\net6.0\les1.1.csproj.CoreCompileInputs.cache
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\obj\Debug\net6.0\les1.1.dll
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\obj\Debug\net6.0\refint\les1.1.dll
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\obj\Debug\net6.0\les1.1.pdb
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\obj\Debug\net6.0\les1.1.genruntimeconfig.cache
+C:\Users\78999\Desktop\обучение\C#\qwert\les1.1\obj\Debug\net6.0\ref\les1.1.dll
