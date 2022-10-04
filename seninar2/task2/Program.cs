@@ -1,4 +1,4 @@
-﻿int a = new Random().Next(10, 99);
+﻿int a = new Random().Next(10, 100);
 Console.WriteLine(a);
 if (a%10 > a / 10)
 {
